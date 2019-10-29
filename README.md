@@ -8,8 +8,8 @@ I've gone back through older Zip Code Wilmington assessments and decided to rewr
 ## What I Learned
 Transitioning from one programming language to another is not the same arduous task as learning the first time around. Instead of having to figure out what each symbol or word means individually within context, its easier to look at a function as a whole, determine logic, then look up what specifically what would be needed to solve said equation.
 
-• Syntax is eerily similar despite a few different ways to initate a function. 
-• Ruby doesn't rely on method/function types in order to define return value. 
+• Syntax is eerily similar despite a few different ways to initate a function. \n 
+• Ruby doesn't rely on method/function types in order to define return value. \n
 • Instead of brackets there are more direct means of closing a function (i.e. keyword: end)
 
 
