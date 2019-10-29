@@ -1,8 +1,16 @@
 # LearningRuby
-rewriting Zip Code Wilmington assessments in Ruby and then completing those assessments in Ruby 
+**rewriting Zip Code Wilmington assessments in Ruby and then completing those assessments in Ruby**
 
-In the effort of expanding my knowledge of OOP languages I'm attempting to learn Ruby. After skimming through a few tutorrials a la Google, as well as reading the Poignant Guide to Ruby over the past day and a half, I decided that in order to test myself is by ...testing myself. 
+In the effort of expanding my knowledge of OOP languages I'm attempting to learn Ruby. After skimming through a few tutorrials via Google, as well as reading The Poignant Guide to Ruby over the past day and a half, I decided that in order to test my knowledge by writing tests. 
 
-I've gone back through Zip Code Wilmington's cohort 4.1's assessments (which are still accessible for just these purposes) and decided to not only retake the assesments, but rewrite them in Ruby ..THEN retake the assesement ...ALSO IN RUBYYY!!
+I've gone back through older Zip Code Wilmington assessments and decided to rewrite and complete them in Ruby
 
-Insane ..I know ..but it's going to help quickly throw me into Ruby and enundate myself in the syntax. It will also sharpen my TDD skills. 
+## What I Learned
+Transitioning from one programming language to another is not the same arduous task as learning the first time around. Instead of having to figure out what each symbol or word means individually within context, its easier to look at a function as a whole, determine logic, then look up what specifically what would be needed to solve said equation.
+
+• Syntax is eerily similar despite a few different ways to initate a function. 
+• Ruby doesn't rely on method/function types in order to define return value. 
+• Instead of brackets there are more direct means of closing a function (i.e. keyword: end)
+
+
+
